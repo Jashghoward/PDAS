@@ -11,8 +11,6 @@ console.log(title, handle)
       </figure>
     </div>
 
-    
-    
     <div className="card-content">
       <div className="media-content">
         <p className="title is-4">{title}</p>
