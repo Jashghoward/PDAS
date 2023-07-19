@@ -2,6 +2,8 @@ function ProfileCard({ title, handle, image, description }) {
 // const title = props.title;
 // const handle = props.handle;
 // const { title, handle } = props;
+
+
 console.log(title, handle)
   return (
   <div className="card">
@@ -10,7 +12,7 @@ console.log(title, handle)
         <img src={image} alt="pda logo" />
       </figure>
     </div>
-    
+
     <div className="card-content">
       <div className="media-content">
         <p className="title is-4">{title}</p>
