@@ -10,6 +10,8 @@ console.log(title, handle)
         <img src={image} alt="pda logo" />
       </figure>
     </div>
+
+    
     
     <div className="card-content">
       <div className="media-content">
