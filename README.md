@@ -1,4 +1,4 @@
-Please note that this projects framework was taken from a Udempy tutorial, I didn't create a lot of the filler code that was downloaded from the tutorial I did.
+Please note that this projects framework was taken from a Udemy tutorial, I didn't create a lot of the filler code that was downloaded from the tutorial I did.
 
 
 
