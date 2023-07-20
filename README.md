@@ -1,3 +1,8 @@
+Please note that this projects framework was taken from a Udempy tutorial, I didn't create a lot of the filler code that was downloaded from the tutorial I did.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
